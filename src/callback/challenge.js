@@ -1,0 +1,1 @@
+import XMLHttpRequest from 'xmlhttprequest';
